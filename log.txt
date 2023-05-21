@@ -1,0 +1,6 @@
+US001
+
+Componente padre con los 16 componentes hijos, display grid, 4x4, titulo de bestsellers
+El primer componente hijo debe tener imagen, nombre, precio, y un boton
+
+Catalogue > 16x Games > GameImage & div (GameName, GamePrice, BuyGame), data in a json to simulate a DB

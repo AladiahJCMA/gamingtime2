@@ -1,0 +1,316 @@
+{
+    "Games": [
+        {
+            "id": "01",
+            "name": "Hollow Knight",
+            "price": "15€ EUR",
+            "imgFolder": "hollow_knight",
+            "newGame": true,
+            "description": [
+                "Beneath the fading town of Dirtmouth sleeps a vast, ancient kingdom. Many are drawn beneath the surface, searching for riches, or glory, or answers to old secrets.",
+                "As the enigmatic Knight, you'll traverse the depths, unravel its mysteries and conquer its evils."
+            ],
+            "genre" : [
+                "Hollow Knight is a challenging 2D action-adventure. You'll explore twisting caverns, battle tainted creatures and escape intricate traps, all to solve an ancient long-hidden mystery."
+            ],
+            "features": [
+                "Explore vast, interconnected worlds",
+                "Encounter a bizarre collection of friends and foes",
+                "Evolve with powerful new skills and abilities"
+            ]
+        },{
+            "id": "02",
+            "name": "Castlevania: Symphony of the Night",
+            "price": "10€ EUR",
+            "imgFolder": "castlevania_sotn",
+            "newGame": false,
+            "description": [
+                "The game's story takes place during the year 1797, 5 years after the events of Rondo of Blood and begins with Richter Belmont's defeat of Count Dracula, mirroring the end of the former game.",
+                "However, despite Dracula being defeated, Richter vanishes without a trace. Castlevania rises again five years later, and while there are no Belmonts to storm the castle, Alucard, the son of Dracula, awakens from his self-induced sleep, and decides to investigate what transpired during his slumber."
+            ],
+            "genre": [
+                "Control Alucard as he fights his way through a castle full of monsters in order to confront his father, the legendary vampire Dracula.",
+                "Symphony of the Night introduced a more fluid control scheme for its protagonist. Unlike his predecessors, Alucard can back-dash with a single button, and attack with a downward kick while jumping. Alucard can also use magic spells learned through incantation scrolls and activated with specific button combinations."
+            ],
+            "features": [
+                "Use a variety of sub-weapons found in various places of the castle", 
+                "Learn skills when he discovers certain relics",
+                "Level up and equip different weapons and armor pieces"
+            ]
+        },{
+            "id": "03",
+            "name": "Bloodborne",
+            "price": "20€ EUR",
+            "imgFolder": "bloodborne",
+            "newGame": false,
+            "description": [
+                "Bloodborne takes place in Yharnam, a decrepit Gothic city known for its medical advances around the practice of blood ministration. Over the years, many travellers journey to the city seeking the remedy to cure their afflictions; the player's character journeys to Yharnam seeking the cure, something known as Paleblood, for an unspecified illness. However, upon arriving in the city, it is discovered that Yharnam is plagued with an endemic illness that has transformed most of its citizens into bestial creatures.",
+                "Navigate the streets of Yharnam during the night of The Hunt and overcome its violently deranged inhabitants and horrifying monsters to stop the source of the plague and escape the Nightmare. Long ago, the residents of Yharnam began worshipping ancient, eldritch cosmic beings known as the Great Ones after scholars from the College of Byrgenwerth discovered something referred to as a 'medium' in the ruins of an ancient, highly advanced civilization, on top of which Yharnam was built.",
+                "The Great Ones provided the healing blood Yharnam was famous for, which is also the source of the plague."
+            ],
+            "genre": [
+                "The player makes their way through different locations within the decrepit Gothic world of Yharnam while battling varied enemies, including bosses, collecting different types of items that have many uses, interacting with non-player characters, opening up shortcuts, and continuing through the main story.",
+                "Bloodborne is an action role-playing game played from a third-person perspective and features elements similar to those found in the Dark Souls series, also made by FromSoftware."
+            ],
+            "features": [
+                "A Terrifying New World: Journey to a horror-filled gothic city where deranged mobs and nightmarish creatures lurk around every corner", 
+                "Strategic Action Combat: Armed with a unique arsenal of weaponry, including guns and saw cleavers, you'll need wits, strategy and reflexes to take down the agile and intelligent enemies that guard the city's dark secrets",
+                "A New Generation of Action RPG: Stunningly detailed gothic environments, atmospheric lighting, and advanced new online experiences",
+                "Ever-changing Chalice Dungeons to Explore: Use holy chalices to gain entrance to a network of vast underground ruins, filled with traps, beasts, and rewards, to explore and conquer alone or with others. These procedurally generated dungeons offer brand new challenges to master, and can be uploaded or shared with friends"
+            ]
+        },{
+            "id": "04",
+            "name": "Celeste",
+            "price": "15€ EUR",
+            "imgFolder": "celeste",
+            "newGame": true,
+            "description": [
+                "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight, hand-crafted platformer from the creators of multiplayer classic TowerFall.",
+                "This is it, Madeline. Just breathe. You can do this."
+            ],
+            "genre": [
+                "The controls are simple and accessible - simply jump, air-dash, and climb - but with layers of expressive depth to master, where every death is a lesson. Lightning-fast respawns keep you climbing as you uncover the mysteries of the mountain and brave its many perils."
+            ],
+            "features": [
+                "A narrative-driven, single-player adventure like mom used to make, with a charming cast of characters and a touching story of self-discovery", 
+                "A massive mountain teeming with 700+ screens of hardcore platforming challenges and devious secrets",
+                "Brutal B-side chapters to unlock, built for only the bravest mountaineers",
+                "IGF “Excellence in Audio” finalist, with over 2 hours of original music led by dazzling live piano and catchy synth beats"
+            ]
+        },{
+            "id": "05",
+            "name": "League of Legends",
+            "price": "Free",
+            "imgFolder": "lol",
+            "newGame": false,
+            "description": [
+                "League of Legends (LoL), commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre. Since its release in October 2009, League has been free-to-play and is monetized through purchasable character customization. The game is available for Microsoft Windows and macOS.",
+                "In the game, two teams of five players battle in player-versus-player combat, each team occupying and defending their half of the map. Each of the ten players controls a character, known as a 'champion', with unique abilities and differing styles of play. During a match, champions become more powerful by collecting experience points, earning gold, and purchasing items to defeat the opposing team. In League's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their 'Nexus', a large structure located within."
+            ],
+            "genre": [ 
+                "League of Legends is a team-based strategy game where two teams of five powerful champions face off to destroy the other's base. Choose from over 140 champions to make epic plays, secure kills, and take down towers as you battle your way to victory."
+            ],
+            "features": [
+                "More than 160 champions and 150 items", 
+                "Each champion has five core abilities, two special spells, and up to seven items at a time. Figuring out the optimal ability order, summoner spells, and item build for your champion will help you succeed as a team",
+                "Five different lanes, with different playstyles on each one. There's always something new"
+            ]
+        },{
+            "id": "06",
+            "name": "Overwatch 2",
+            "price": "Free",
+            "imgFolder": "overwatch",
+            "newGame": true,
+            "description": [
+                "Overwatch 2 is a free-to-play, team-based action game set in the optimistic future, where every match is the ultimate 5v5 battlefield brawl. Play as a time-jumping freedom fighter, a beat-dropping battlefield DJ, or one of over 30 other unique heroes as you battle it out around the globe.",
+                "Beginning in 2023, experience the next chapter of the Overwatch saga with a series of intense PvE missions set during the second Crisis. Rally Overwatch agents and confront the deadly forces of Null Sector all over the world."
+            ],
+            "genre": [
+                "Grab your friends, group up, and dive into everything Overwatch 2 has in store."
+            ],
+            "features": [
+                "Overwatch 2 is a free-to-play, always-on, and ever-evolving live game", 
+                "More extraordinary heroes will join the current roster. Whether you like to lead the charge, ambush enemies, or aid your allies, there's a new hero for you",
+                "Enjoy high-octane conflict with a fresh lineup of heroes, more maps to explore, and 5v5 combat that gives every player game-changing power"
+            ]
+        },{
+            "id": "07",
+            "name": "Dark Souls 3",
+            "price": "50€ EUR",
+            "imgFolder": "dark_souls_3",
+            "newGame": false,
+            "description": [
+                "As has happened many times before, the coming of the Age of Dark produces the undead: cursed beings that rise after death. The Age of Fire can be prolonged by linking the fire, a ritual in which great lords and heroes sacrifice their souls to rekindle the First Flame.",
+                "However, Prince Lothric, the chosen linker for this age, abandoned his duty and chose to watch the flame die from afar. The bell is the last hope for the Age of Fire, resurrecting previous Lords of Cinder to attempt to link the fire again; however, all but one Lord shirk their duty. Meanwhile, Sulyvahn, a sorcerer from the Painted World of Ariandel, wrongfully proclaims himself Pontiff and seizes power over Irithyll of the Boreal Valley and the returning Anor Londo cathedral as a tyrant."
+            ],
+            "genre": [
+                "Set in the Kingdom of Lothric, a bell has rung to signal that the First Flame, responsible for maintaining the Age of Fire, is dying out.",
+                "Dark Souls III is an action role-playing game played in a third-person perspective. Players are equipped with various weapons to fight against enemies, such as swords, axes, bows, throwable projectiles and even magic."
+            ],
+            "features": [
+                "220 weapons ready to master", 
+                "19 devastating bosses on the main game",
+                "Level up and raise your stats according to your fight style"
+            ]
+        },{
+            "id": "08",
+            "name": "Animal Crossing: New Horizons",
+            "price": "60€ EUR",
+            "imgFolder": "animal_crossing",
+            "newGame": true,
+            "description": [
+                "Escape to a deserted island and create your own paradise as you explore, create, and customize in the Animal Crossing: New Horizons game. Your island getaway has a wealth of natural resources that can be used to craft everything from tools to creature comforts.",
+                "You can hunt down insects at the crack of dawn, decorate your paradise throughout the day, or enjoy sunset on the beach while fishing in the ocean. The time of day and season match real life, so each day on your island is a chance to check in and find new surprises all year round."
+            ],
+            "genre": [
+                "Show off your island utopia to family and friends—or pack your bags and visit theirs. Whether playing online or with others beside you, island living is even better when you can share it!", 
+                "Even without hopping on a flight, you'll meet a cast of charming animal residents bursting with personality. Friendly faces like Tom Nook and Isabelle will lend their services and happily help you grow your budding community. Escape to your island getaway—however, whenever, and wherever you want."
+            ],
+            "features": [
+                "Build your community from scratch on a deserted island brimming with possibilities", 
+                "Create your personal getaway and customize your character, home, decorations, and even the landscape itself",
+                "Collect materials to construct everything from furniture to tools! Then, use what you create to give your island a personal touch",
+                "Watch as the time of day and seasons match real life—even your hemisphere! Each day holds potential for surprises and discoveries",
+                "Get to know the island residents, garden, fish, decorate, hunt for fossils, and more!",
+                "Show off your paradise - play on the same system with a total of 4 people, or play together online or over local wireless for fun with up to 8 players"
+            ]
+        },{
+            "id": "09",
+            "name": "Genshin Impact",
+            "price": "Free",
+            "imgFolder": "genshin_impact",
+            "newGame": true,
+            "description": [
+                "Genshin Impact takes place in the world of Teyvat, composed of seven major nations, each of which is ruled by a different god called an 'Archon', tied to a different element and ideal, and governed by a specific faction. The mysterious floating island of Celestia hangs above Teyvat, allegedly home to gods, as well as mortals who have ascended to godhood through great, heroic feats.",
+                "Underground lie the ruins of Khaenri'ah, a mysterious nation which was destroyed by Celestia 500 years before the main events of the game. Unlike the seven nations, Khaenri'ah was not ruled over by a god, and sought to create a civilization led solely by humans."
+            ],
+            "genre": [
+                "Genshin Impact is an open-world, action role-playing game that allows the player to control one of four interchangeable characters in a party.", 
+                "Switching between characters can be done quickly during combat, allowing the player to use several different combinations of skills and attacks."
+            ],
+            "features": [
+                "Explore a wide variety of areas, some of which are inspired by real life cultures", 
+                "Collect, train and use different characters in your team",
+                "Unleash the power of the elements to activate incredible elemental reactions"
+            ]
+        },{
+            "id": "10",
+            "name": "Arknights",
+            "price": "Free",
+            "imgFolder": "arknights",
+            "newGame": true,
+            "description": [
+                "The game is set in the dystopian, post-apocalyptic future setting of the planet Terra, where people exhibit kemonomimi features (characteristics of animals or mythological races). Natural disasters leave behind a valuable mineral, originium, which infects people with a progressive disease, oripathy, but also allows them to also use Arts (magic).",
+                "Because oripathy is highly infectious and invariably fatal, the infected are shunned and persecuted. In response, some of them form the Reunion movement, a militant group waging war on the despotic governments of Terra."
+            ],
+            "genre": [
+                "The core gameplay is that of a tower defense game, with a number of characters (operators) as towers.", 
+                "Melee operators can be placed on ground tiles and ranged operators on elevated tiles. Melee operators physically block enemies from advancing, and ranged operators deal ranged damage, heal or otherwise support melee operators. Players must place operators on the correct tiles to prevent the enemy from infiltrating the player's base. Once in place, an operator's skills can be activated after a time for special effects, or they can be withdrawn for redeployment after a delay."
+            ],
+            "features": [
+                "Unlock, upgrade and master a vast amount of characters", 
+                "Plenty of content that can push one to the limit, challenge yourself",
+                "8 main classes, and more than 40 subclasses in total"
+            ]
+        },{
+            "id": "11",
+            "name": "Kid Icarus Uprising",
+            "price": "50€ EUR",
+            "imgFolder": "kid_icarus",
+            "newGame": false,
+            "description": [
+                "Twenty-five years after the first game, the Goddess of Darkness Medusa mysteriously resurrects and sets out to conquer the world. In response, Pit is sent on missions by Palutena to destroy Medusa's forces. During his missions, Pit fights Medusa's returning commanders Twinbellows, Hewdraw, Pandora, and Thanatos, as well as new commander Dark Lord Gaol with the help of a human mercenary named Magnus.",
+                "In the battle with her, Pandora uses a magical mirror that spawns a doppelgänger of Pit called Dark Pit, intending to use him as a slave. However, because Pit destroyed the mirror before he could be completed, Dark Pit turns against Pandora, steals her powers from her corpse, and vows to kill the gods in order to stop the conflict, as well as Pit in the belief he is the original."
+            ],
+            "genre": [
+                "Kid Icarus: Uprising is a third-person shooter where players take control of the angel Pit during his missions for Palutena, the Goddess of Light.", 
+                "Gameplay is divided into two different styles: aerial-based rail shooter segments, and ground-based segments that feature both linear paths and free-roaming areas. The game's difficulty, or Intensity, is determined by betting hearts in the Fiend's Cauldron before beginning each mission. The difficulty ranges from the very easy '0.0' to the highly difficult '9.0'. Pit's combat abilities are divided between long-range attacks using gun-like weapons, and close-quarters melee attacks."
+            ],
+            "features": [
+                "Test yourself (and your aim) with a perfected difficulty mode", 
+                "Obtain different weapons and stats, completely at random",
+                "Participate on the PvP mode and dominate your competition"
+            ]
+        },{
+            "id": "12",
+            "name": "Steins;Gate 0",
+            "price": "30€ EUR",
+            "imgFolder": "steins_gate",
+            "newGame": true,
+            "description": [
+                "Follow a group of young, tech-savvy “lab members” who discover the means of changing the past via e-mail using a modified microwave. Their experiments in pushing the boundaries of time begin to spiral out of control as they become entangled in a conspiracy surrounding SERN, the organization behind the Large Hadron Collider, and John Titor, who claims to be from a dystopian future."
+            ],
+            "genre": [
+                "Get on the skin of an amateur scientist on this visual novel, and discover the secrets that lie between time. It's up to you to save the world.", 
+                "Steins;Gate's gameplay requires little interaction from the player as most of the duration of the game is spent reading the text that appears on the screen, which represents either the dialogue between the various characters or the thoughts of the protagonist. Like many other visual novels, there are specific points in Steins;Gate where the user is given a choice to affect the direction of the game."
+            ],
+            "features": [
+                "Fully Animated Adventure - Indulge in all the beautiful animation from 24 episodes of the STEINS;GATE anime", 
+                "A New Way to Time Leap - Experience the world of STEINS;GATE with this remastered, ultimate version that features newly animated sequences for certain endings",
+                "Branching Storylines - Every choice you make has its own consequence, shifting the worldline closer or farther from reaching 1% divergence, providing a multitude of animated endings"
+            ]
+        },{
+            "id": "13",
+            "name": "The Legend of Zelda: Breath of the Wild",
+            "price": "60€ EUR",
+            "imgFolder": "zelda_bw",
+            "newGame": true,
+            "description": [
+                "No kingdom. No memories. After a 100-year slumber, Link wakes up alone in a world he no longer remembers. Now the legendary hero must explore a vast and dangerous land and regain his memories before Hyrule is lost forever.",
+                "Armed only with what he can scavenge, Link sets out to find answers and the resources needed to survive."
+            ],
+            "genre": [
+                "When Link first wakes up, he's unarmed and defenseless, with the world he once knew in ruins, monsters roaming the land.",
+                "Relying on his wits and resourcefulness, though, he can acquire over 180 different weapons to use in combat. These items will wear out over time, though, so he must always be on the lookout for more. There's more to fighting than just weapons, of course. Link will also have to learn a variety of different attacks—like high-flying bow shots and making use of explosives—in order to prevail."
+            ],
+            "features": [
+                "Explore Hyrule: The Sheikah Slate features a map of Hyrule to guide Link's journey. It also has a scope to identify points of interest from a distance", 
+                "Download runes: In certain Shrines, Link can download Runes to learn new abilities to help solve puzzles and unlock secret areas",
+                "Get organized: Link can manage his adventure with the Sheikah Slate, using the Inventory to organize items and tracking quests in the Adventure Log"
+            ]
+        },{
+            "id": "14",
+            "name": "Persona 5 Royal",
+            "price": "60€ EUR",
+            "imgFolder": "persona5R",
+            "newGame": true,
+            "description": [
+                "Prepare for the award-winning RPG experience in this definitive edition of Persona 5 Royal, featuring a treasure trove of downloadable content included!",
+                "Forced to transfer to a high school in Tokyo, the protagonist has a strange dream. “You truly are a prisoner of fate. In the near future, ruin awaits you.” With the goal of “rehabilitation” looming overhead, he must save others from distorted desires by donning the mask of a Phantom Thief."
+            ],
+            "genre": [
+                "Persona 5 is a role-playing video game where the player takes on the role of a male high school student, codenamed Joker, who lives out a single year while attending school in modern-day Tokyo.", 
+                "The game is governed by a day-night cycle and weather systems that determine general behavior similar to a social simulation game. The year is punctuated by scripted and random events as Joker attends school. He can perform part-time jobs, pursue leisure activities or create battle items. These various activities raise character attributes, which grant passive buffing effects during battle. When in the real world, the main protagonist can develop character relationships known as Confidants. With this system, the main protagonist can converse with and improve his relationship with other characters he meets, with some leading to possible romances."
+            ],
+            "features": [
+                "Explore Tokyo, unlock Personas, customize your own personal Thieves Den, experience alternate endings, and more", 
+                "Become the ultimate Phantom Thief and defy conventions, discover the power within, and fight for justice in the definitive version of Persona 5 Royal",
+                "Includes over 40 items of previously released downloadable content",
+                "Choose between Japanese and English VO"
+            ]
+        },{
+            "id": "15",
+            "name": "Spider-Man",
+            "price": "60€ EUR",
+            "imgFolder": "spiderman",
+            "newGame": true,
+            "description": [
+                "Peter Parker is a 23-year-old college graduate who has held the secret identity of Spider-Man for eight years and has settled into his role as protector of New York City.[5] In addition, he is working at a laboratory as a research assistant. After recently defeating criminal Wilson Fisk, Peter must now investigate as a new gang known as the Inner Demons emerges taking over Fisk's territory."
+            ],
+            "genre": [
+                "Marvel's Spider-Man is an open-world action-adventure game set in the borough of Manhattan in a fictionalized version of modern-day New York City.", 
+                "It is presented from a third-person perspective showing the playable character and allowing the camera to be rotated freely around them. The primary playable character is the superhero Spider-Man, who can navigate the world by jumping, using his web shooters to fire webs that allow him to swing between buildings, running along walls and automatically vaulting over obstacles. The player can precisely aim webs to pull himself towards specific points."
+            ],
+            "features": [
+                "Be Spider-Man: After eight years behind the mask, Peter Parker is a crime-fighting master. Feel the full power of a more experienced Spider-Man with improvisational combat, dynamic acrobatics, fluid urban traversal, and environmental interactions",
+                "Worlds Collide: The worlds of Peter Parker and Spider-Man collide in an original action-packed story", 
+                "Marvel's New York is Your Playground: The Big Apple comes to life as Insomniac's most expansive and interactive world yet. Swing through vibrant neighborhoods and catch breathtaking views of iconic Marvel and Manhattan landmarks"
+            ]
+        },{
+            "id": "16",
+            "name": "Hades",
+            "price": "25€ EUR",
+            "imgFolder": "hades",
+            "newGame": true,
+            "description": [
+                "The player takes the role of Zagreus, the prince of the Underworld, who is trying to escape the realm to get away from his unloving father, Hades, and reach his mother Persephone in the mortal world. His quest is supported by the other Olympians, who grant him gifts to help fight the beings that protect the exit from the Underworld.",
+                "He is also helped on his quest by notorious residents of the Underworld, such as Sisyphus, Eurydice, or Patroclus. The game world is divided between four main dungeons, each representing one of the regions of the Underworld, namely Tartarus, Asphodel, Elysium, and the Temple of Styx."
+            ],
+            "genre": [
+                "Control Zagreus, the son of Hades, as he attempts to escape from the Underworld to reach Mount Olympus, at times aided by gifts bestowed on him from the other Olympians.",
+                "Each run challenges the player through a random series of rooms populated with enemies and rewards. The game has a hack and slash combat system; the player uses a combination of their main weapon attack, a special attack, a dash ability, and a magic ability to defeat them while avoiding damage to progress as far as possible. While Zagreus will often die, the player can use gained treasure to improve certain attributes or unlock new weapons and abilities to improve chances of escaping on subsequent runs."
+            ],
+            "features": [
+                "BATTLE OUT OF HELL: As the immortal Prince of the Underworld, you'll wield the powers and mythic weapons of Olympus to break free from the clutches of the god of the dead himself", 
+                "UNLEASH THE FURY OF OLYMPUS: The Olympians have your back! Meet Zeus, Athena, Poseidon, and many more, and choose from their dozens of powerful Boons that enhance your abilities",
+                "BEFRIEND GODS, GHOSTS, AND MONSTERS: A fully-voiced cast of colorful, larger-than-life characters is waiting to meet you! Grow your relationships with them, and experience thousands of unique story events as you learn about what's really at stake for this big, dysfunctional family",
+                "BUILT FOR REPLAYABILITY: New surprises await each time you delve into the ever-shifting Underworld, whose guardian bosses will remember you. Use the powerful Mirror of Night to grow permanently stronger, and give yourself a leg up the next time you run away from home"
+            ]
+        }
+    ],
+
+    "Featured": [
+        "11", "08", "03", "16",
+        "01", "10", "05", "14"
+    ]
+}
